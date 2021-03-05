@@ -59,6 +59,10 @@ nav {
   justify-content: flex-end;
 }
 
+.cover img {
+  cursor: default;
+}
+
 .presentation {
   display: flex;
   width: 90%;
